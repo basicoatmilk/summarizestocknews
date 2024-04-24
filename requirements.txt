@@ -1,0 +1,11 @@
+requests
+bs4
+csv
+tensorflow
+transformers
+streamlit
+re
+torch
+tf-keras
+sentencepiece
+pandas
